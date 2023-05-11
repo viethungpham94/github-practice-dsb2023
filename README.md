@@ -25,4 +25,7 @@
 |No | Name  | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:---|:----------------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou       | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-|07|Piotr Szkolnik       | thor4fun |<https://github.com/thor4fun/mydsb23>   |<>        |2023-05-11 |
+|01|Jenna Thomas       | jennalit |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
+|02|Seán O'Doherty       | seanodoherty |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
+|03|Piotr Szkolnik       | thor4fun |<https://github.com/thor4fun/mydsb23>   |<>        |2023-05-11 |
+|33|Emma Doukhan       | EmmaDoukhan|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
