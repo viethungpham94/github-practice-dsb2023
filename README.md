@@ -38,22 +38,22 @@ okay
 |09| Nikita Reid      | NikitaReid |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |10|Ronapat Srisupavanich       | ronapats |<https://github.com/ronapats/my_gorgeous_website>   |<https://ronapatsportfolio-2023.netlify.app/>        |2023-05-11 |
 |11|Chatiwat Phlaingam       | Chatiwat Phlaingam  |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-|14|Nina Ferrer-Erikss       | nina-eriksson |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
-|15|Paula Lagos R       | paulalagosr |website   |netfly   |2021-05-11 |
-|17|Eugene Nesterenko       | YevheniiN281 | TBA   | TBA       |2023-05-11 |
-|18|Shashvat Somany       | ssomany12 |https://github.com/ssomany12   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-|19|Qi Ren       | 1817 |<https://github.com/kostis-christodoulou/my_gorgeous_website>  |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-|20|Max Cheatle       | maxcheatle |   |      |2023-05-11 |
-|21|Mike Dizon       | mikedizon22 |   |        |2023-05-11 |
-|22|Naoya Kinoshita       | NaoKino |<https://github.com/NaoKino>   |        |2023-05-11 |
-|23|Colby Richardson       | rolbadolce |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
-|24|Notis Lapatas      | Notis-lp |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-|25 |Assad Ahmed       | AssadAhmed |<https://github.com/AssadAhmed/mywebsite>   |<n/a> |2023-05-11 |
-|26|Nicholas Arnovitz       | arnovitz |<https://github.com/arnovitz/mydsb>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
-|27|Andres Felipe Montoya      | andetoya |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-|28|Thaisiri Siripoorikan       | thaisiri |[https://github.com/thaisiri/mydsb23]   |[https://github.com/thaisiri/mydsb23]  |2023-05-11 |
-|29|Nianyu Li       | NianyuLi |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-|30|Jacqui Cole       | jacquicole |<https://github.com/jacquicole>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-|31|Guido Bozzano       | guidobozzano |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-|32|Juan Aranguren       | Juanaranguren1995 |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-|33|Emma Doukhan       | EmmaDoukhan|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 
+|12|Nina Ferrer-Erikss       | nina-eriksson |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
+|13|Paula Lagos R       | paulalagosr |website   |netfly   |2021-05-11 |
+|14|Eugene Nesterenko       | YevheniiN281 | TBA   | TBA       |2023-05-11 |
+|15|Shashvat Somany       | ssomany12 |https://github.com/ssomany12   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|16|Qi Ren       | 1817 |<https://github.com/kostis-christodoulou/my_gorgeous_website>  |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|17|Max Cheatle       | maxcheatle |   |      |2023-05-11 |
+|18|Mike Dizon       | mikedizon22 |   |        |2023-05-11 |
+|19|Naoya Kinoshita       | NaoKino |<https://github.com/NaoKino>   |        |2023-05-11 |
+|20|Colby Richardson       | rolbadolce |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
+|21|Notis Lapatas      | Notis-lp |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|22 |Assad Ahmed       | AssadAhmed |<https://github.com/AssadAhmed/mywebsite>   |<n/a> |2023-05-11 |
+|23|Nicholas Arnovitz       | arnovitz |<https://github.com/arnovitz/mydsb>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
+|24|Andres Felipe Montoya      | andetoya |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|25|Thaisiri Siripoorikan       | thaisiri |[https://github.com/thaisiri/mydsb23]   |[https://github.com/thaisiri/mydsb23]  |2023-05-11 |
+|26|Nianyu Li       | NianyuLi |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|27|Jacqui Cole       | jacquicole |<https://github.com/jacquicole>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|28|Guido Bozzano       | guidobozzano |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|29|Juan Aranguren       | Juanaranguren1995 |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|30|Emma Doukhan       | EmmaDoukhan|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 
