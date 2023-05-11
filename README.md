@@ -30,6 +30,7 @@
 |03|Piotr Szkolnik       | thor4fun |<https://github.com/thor4fun/mydsb23>   |<>        |2023-05-11 |
 |04|Harry Heo       | harryheo1 |        |2023-05-11 |
 |24|Notis Lapatas      | Notis-lp |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|26|Nicholas Arnovitz       | arnovitz |<https://github.com/arnovitz/mydsb>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
 |27|Andres Felipe Montoya      | andetoya |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |28|Thaisiri Siripoorikan       | thaisiri |[https://github.com/thaisiri/mydsb23]   |[https://github.com/thaisiri/mydsb23]  |2023-05-11 |
 |29|Nianyu Li       | NianyuLi |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
