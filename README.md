@@ -45,9 +45,7 @@ okay
 |19|Qi Ren       | 1817 |<https://github.com/kostis-christodoulou/my_gorgeous_website>  |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |20|Max Cheatle       | maxcheatle |   |      |2023-05-11 |
 |21|Mike Dizon       | mikedizon22 |   |        |2023-05-11 |
-
-
-
+|22|Naoya Kinoshita       | NaoKino |<https://github.com/NaoKino>   |        |2023-05-11 |
 |23|Colby Richardson       | rolbadolce |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
 |24|Notis Lapatas      | Notis-lp |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |25 |Assad Ahmed       | AssadAhmed |<https://github.com/AssadAhmed/mywebsite>   |<n/a> |2023-05-11 |
@@ -59,4 +57,3 @@ okay
 |31|Guido Bozzano       | guidobozzano |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |32|Juan Aranguren       | Juanaranguren1995 |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |33|Emma Doukhan       | EmmaDoukhan|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 
-
