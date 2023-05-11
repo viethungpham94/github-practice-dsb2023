@@ -27,6 +27,7 @@ okay
 |No | Name  | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:---|:----------------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou       | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+
 |01|Jenna Thomas       | jennalit |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
 |02|Seán O'Doherty       | seanodoherty |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
 |03|Piotr Szkolnik       | thor4fun |<https://github.com/thor4fun/mydsb23>   |<>        |2023-05-11 |
@@ -38,6 +39,9 @@ okay
 |09| Nikita Reid      | NikitaReid |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |10|Ronapat Srisupavanich       | ronapats |<https://github.com/ronapats/my_gorgeous_website>   |<https://ronapatsportfolio-2023.netlify.app/>        |2023-05-11 |
 |11|Chatiwat Phlaingam       | Chatiwat Phlaingam  |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|14|Nina Ferrer-Erikss       | nina-eriksson |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
+
+
 
 |23|Colby Richardson       | rolbadolce |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
 |24|Notis Lapatas      | Notis-lp |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
