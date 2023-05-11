@@ -42,6 +42,7 @@ okay
 |14|Nina Ferrer-Erikss       | nina-eriksson |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
 |15|Paula Lagos R       | paulalagosr |website   |netfly   |2021-05-11 |
 |17|Eugene Nesterenko       | YevheniiN281 | TBA   | TBA       |2023-05-11 |
+|18|Shashvat Somany       | ssomany12 |https://github.com/ssomany12   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 
 
 
@@ -56,4 +57,3 @@ okay
 |31|Guido Bozzano       | guidobozzano |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |32|Juan Aranguren       | Juanaranguren1995 |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |33|Emma Doukhan       | EmmaDoukhan|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 
-
