@@ -29,5 +29,6 @@
 |02|Seán O'Doherty       | seanodoherty |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
 |03|Piotr Szkolnik       | thor4fun |<https://github.com/thor4fun/mydsb23>   |<>        |2023-05-11 |
 |04|Harry Heo       | harryheo1 |        |2023-05-11 |
+|31|Guido Bozzano       | guidobozzano |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |32|Juan Aranguren       | Juanaranguren1995 |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |33|Emma Doukhan       | EmmaDoukhan|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
