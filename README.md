@@ -1,5 +1,7 @@
 # Personal Portfolio Webpage
 
+IGOR KUZNETSOV IgorK7 test
+
 **Assignment Instructions**
 
 - Create your own GitHub profile/ID (use a name appropriate for job applications) <https://happygitwithr.com/github-acct.html>
