@@ -1,7 +1,5 @@
 # Personal Portfolio Webpage
 
-IGOR KUZNETSOV IgorK7 test
-
 **Assignment Instructions**
 
 - Create your own GitHub profile/ID (use a name appropriate for job applications) <https://happygitwithr.com/github-acct.html>
@@ -19,10 +17,8 @@ IGOR KUZNETSOV IgorK7 test
     - **Important**: Your entry will NOT appear on the class table right away.  Once you submit the "pull request" the owner of the repo (me) needs to approve and merge it into the "master" before your entry will appear in the class table on the website. 
 
 # You may find <http://happygitwithr.com/index.html> useful
- change
-<br>
 
-okay
+
 
 # Class GitHub Table with all portfolio websites
 
@@ -58,4 +54,7 @@ okay
 |27|Jacqui Cole       | jacquicole |<https://github.com/jacquicole>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |28|Guido Bozzano       | guidobozzano |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |29|Juan Aranguren       | Juanaranguren1995 |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-|30|Emma Doukhan       | EmmaDoukhan|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 
+|30|Emma Doukhan       | EmmaDoukhan|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|31|IGOR KUZNETSOV       | IgorK7|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+
+
