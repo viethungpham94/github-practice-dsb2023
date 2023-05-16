@@ -63,6 +63,7 @@
 |36|Saagar Hemrajani       | shemrajani94|<https://github.com/shemrajani94/saagars_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-16 |
 |37|Jean-Michel Staelens   | jmstaelens95 |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |38|BRENT LEWIS       | brentplewis|<https://github.com/brentplewis/blwebsite>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-16 |
+|39|KAREN BADANYAN       | karenbadanyan|<https://github.com/kostis-christodoulou/my_gorgeous_website>    |<https://kostisportfolio-2021.netlify.app/>        |2023-05-17 |
 
 
 
