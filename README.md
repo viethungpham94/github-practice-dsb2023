@@ -57,5 +57,7 @@
 |29|Juan Aranguren       | Juanaranguren1995 |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |30|Emma Doukhan       | EmmaDoukhan|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |31|IGOR KUZNETSOV       | IgorK7|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-Patrick Cook | pcookmfa2023 | 
+|32|Aastha Kamra       | aasthakamra|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|33|Patrick Cook       | pcookmfa2023|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+
 
