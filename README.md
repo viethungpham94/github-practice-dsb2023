@@ -45,6 +45,7 @@
 |18|Mike Dizon       | mikedizon22 |   |        |2023-05-11 |
 |19|Naoya Kinoshita       | NaoKino |<https://github.com/NaoKino>   |        |2023-05-11 |
 |20|Colby Richardson       | rolbadolce |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
+
 |21|Notis Lapatas      | Notis-lp |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |22 |Assad Ahmed       | AssadAhmed |<https://github.com/AssadAhmed/mywebsite>   |<n/a> |2023-05-11 |
 |23|Nicholas Arnovitz       | arnovitz |<https://github.com/arnovitz/mydsb>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
@@ -57,4 +58,6 @@
 |30|Emma Doukhan       | EmmaDoukhan|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |31|IGOR KUZNETSOV       | IgorK7|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |32|Aastha Kamra       | aasthakamra|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|33|Patrick Cook       | pcookmfa2023|<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+
 
