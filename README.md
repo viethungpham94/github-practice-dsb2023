@@ -66,4 +66,4 @@
 |39|KAREN BADANYAN       | karenbadanyan|<https://github.com/kostis-christodoulou/my_gorgeous_website>    |<https://kostisportfolio-2021.netlify.app/>        |2023-05-17 |
 |40|Mink Teeraseranee       | Varachya|<https://github.com/kostis-christodoulou/my_gorgeous_website>    |<https://kostisportfolio-2021.netlify.app/>        |2023-05-17 |
 |41|Abdulaziz Abi Haydar       | Abdulaziz1aa|<https://github.com/kostis-christodoulou/my_gorgeous_website>    |<https://kostisportfolio-2021.netlify.app/>        |2023-05-17 
-
+|42|Claudia Cerezo Carrasco       | claudiacerezo|<https://github.com/kostis-christodoulou/my_gorgeous_website>    |<https://kostisportfolio-2021.netlify.app/>        |2023-05-17 
