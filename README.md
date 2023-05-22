@@ -68,3 +68,4 @@
 |41|Abdulaziz Abi Haydar       | Abdulaziz1aa|<https://github.com/kostis-christodoulou/my_gorgeous_website>    |<https://kostisportfolio-2021.netlify.app/>        |2023-05-17 
 |42|Claudia Cerezo Carrasco       | claudiacerezo|<https://github.com/kostis-christodoulou/my_gorgeous_website>    |<https://kostisportfolio-2021.netlify.app/>        |2023-05-17 
 |43|Edward Davies       | edwardhdavies|<https://github.com/edwardhdavies/my-personal-website>    |<https://edward-davies-portfolio.netlify.app/>        |2023-05-20 
+|44|Patrick Hofbauer      | phofbauergit |<https://github.com/phofbauergit/my_website.git>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-22 |
