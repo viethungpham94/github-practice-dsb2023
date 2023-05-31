@@ -42,7 +42,7 @@
 |15|Shashvat Somany       | ssomany12 |https://github.com/ssomany12   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |16|Qi Ren       | 1817 |<https://github.com/kostis-christodoulou/my_gorgeous_website>  |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |17|Max Cheatle       | maxcheatle |   |      |2023-05-11 |
-|18|Mike Dizon       | mikedizon22 |   |        |2023-05-11 |
+|18|Mike Dizon       | mikedizon22 | https://github.com/mikedizon22/dsbrepo2023  |        |2023-05-11 |
 |19|Naoya Kinoshita       | NaoKino |<https://github.com/NaoKino>   |        |2023-05-11 |
 |20|Colby Richardson       | rolbadolce |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
 |21|Notis Lapatas      | Notis-lp |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
