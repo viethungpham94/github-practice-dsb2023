@@ -34,7 +34,7 @@
 |07|Ori Stern| Storiern |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
 |08| Joaomiguelgcrp      | jpereira.mfa2023@london.edu |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |09| Nikita Reid      | NikitaReid |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-|10|Ronapat Srisupavanich       | ronapats |<https://github.com/ronapats/my_gorgeous_website>   |<https://ronapatsportfolio-2023.netlify.app/>        |2023-05-11 |
+|10|Ronapat Srisupavanich       | ronapats |<https://github.com/ronapats/my_website>   |<https://ronapat-portfolio-2023.netlify.app/>        |2023-05-11 |
 |11|Chatiwat Phlaingam       | Chatiwat Phlaingam  |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |12|Nina Ferrer-Erikss       | nina-eriksson |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
 |13|Paula Lagos R       | paulalagosr |website   |netfly   |2021-05-11 |
