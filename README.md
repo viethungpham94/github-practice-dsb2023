@@ -76,3 +76,4 @@
 |49| Vaani Kohli       | vaanikohli | https://github.com/vaanikohli/my-website.git | https://vaani-portfolio.netlify.app/ | 2023-06-16 |
 |50| Andrea Villarreal | andreavz18 | https://github.com/andreavz18/my_website/ | https://app.netlify.com/sites/andreavz-website/ | 2023-06-17 |
 |51| Sandra Matlievska | smatlievska | https://github.com/smatlievska/dsb-website/ | https://smatlievska.netlify.app/ | 2023-06-17 |
+|52| Ameera Jimoh | ameerajimoh | https://github.com/ameerajimoh/my_website/ | https://ajimoh2023-portfolio.netlify.app | 2023-06-18 | 
