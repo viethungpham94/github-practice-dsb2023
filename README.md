@@ -25,7 +25,7 @@
 |No | Name  | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:---|:----------------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou       | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
-|01|Jenna Thomas       | jennalit |<[https://github.com/kostis-christodoulou/my_gorgeous_website](https://github.com/jennalit/dsb2023_jt)>   |<[https://kostisportfolio-2021.netlify.app/](https://dsb-jt-2023.netlify.app/)>        |2023-05-11 |
+|01|Jenna Thomas       | jennalit |https://dsb-jt-2023.netlify.app>   |https://github.com/jennalit/dsb2023_jt |2023-05-11 |
 |02|Seán O'Doherty       | seanodoherty |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
 |03|Piotr Szkolnik       | thor4fun |<https://github.com/thor4fun/mydsb23>   |<>        |2023-05-11 |
 |04|Harry Heo       | harryheo1 |        |2023-05-11 |
@@ -47,8 +47,7 @@
 |20|Colby Richardson       | rolbadolce |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
 |21|Notis Lapatas      | Notis-lp |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |22 |Assad Ahmed       | AssadAhmed |<https://github.com/AssadAhmed/mywebsite>   |<n/a> |2023-05-11 |
-|23|Nicholas Arnovitz       | arnovitz |<(https://github.com/arnovitz/mywebsite.git)>   |<https://arnovitz.netlify.app/>        |2023-05-11 |
-|23|Nicholas Arnovitz       | arnovitz |<>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
+|23|Nicholas Arnovitz       | arnovitz |<https://github.com/arnovitz/myprivatework>   |<https://arnovitz.netlify.app>        |2023-05-11 |
 |24|Andres Felipe Montoya      | andetoya |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |25|Thaisiri Siripoorikan       | thaisiri |[https://github.com/thaisiri/mydsb23]   |[https://github.com/thaisiri/mydsb23]  |2023-05-11 |
 |26|Nianyu Li       | NianyuLi |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
@@ -67,7 +66,7 @@
 |39|Karen Badanyan       | karenbadanyan|<https://github.com/karenbadanyan/websiteX>    |<https://karenbadanyan-portfolio.netlify.app/>        |2023-06-11 |
 |40|Mink Teeraseranee       | Varachya|<https://github.com/kostis-christodoulou/my_gorgeous_website>    |<https://kostisportfolio-2021.netlify.app/>        |2023-05-17 |
 |41|Abdulaziz Abi Haydar       | Abdulaziz1aa|<https://github.com/kostis-christodoulou/my_gorgeous_website>    |<https://kostisportfolio-2021.netlify.app/>        |2023-05-17 
-|42|Claudia Cerezo Carrasco       | claudiacerezo|<https://github.com/kostis-christodoulou/my_gorgeous_website>    |<https://kostisportfolio-2021.netlify.app/>        |2023-05-17 
+|42|Claudia Cerezo Carrasco       | claudiacerezo|<https://github.com/claudiacerezo/my_website>    |<https://claudiacerezo-portfolio.netlify.app/>        |2023-05-17 
 |43|Edward Davies       | edwardhdavies|<https://github.com/edwardhdavies/my-personal-website>    |<https://edward-davies-portfolio.netlify.app/>        |2023-05-20 
 |44|Patrick Hofbauer      | phofbauergit |<https://github.com/phofbauergit/my_website.git>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-22 |
 |45|Jamie McGraw      | jamiemacg93 |<https://github.com/jamiemacg93/mywebsite.git>  |<https://kostisportfolio-2021.netlify.app/>        |2023-05-25 |
@@ -77,3 +76,4 @@
 |49| Vaani Kohli       | vaanikohli | https://github.com/vaanikohli/my-website.git | https://vaani-portfolio.netlify.app/ | 2023-06-16 |
 |50| Andrea Villarreal | andreavz18 | https://github.com/andreavz18/my_website/ | https://app.netlify.com/sites/andreavz-website/ | 2023-06-17 |
 |51| Sandra Matlievska | smatlievska | https://github.com/smatlievska/dsb-website/ | https://smatlievska.netlify.app/ | 2023-06-17 |
+|52| Jesus Tuesta | andergod | https://github.com/andergod/Website3 | https://jesus-website1.netlify.app/ | 2023-06-17 |
