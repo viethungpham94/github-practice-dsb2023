@@ -48,7 +48,7 @@
 |21|Notis Lapatas      | Notis-lp |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |22 |Assad Ahmed       | AssadAhmed |<https://github.com/AssadAhmed/mywebsite>   |<n/a> |2023-05-11 |
 |23|Nicholas Arnovitz       | arnovitz |<https://github.com/arnovitz/myprivatework>   |<https://arnovitz.netlify.app>        |2023-05-11 |
-|24|Andres Felipe Montoya      | andetoya |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+|24|Andres Felipe Montoya      | andetoya |<https://github.com/andetoya/my_website>   |<https://andresmontoyatorres.netlify.app/>        |2021-08-28 |
 |25|Thaisiri Siripoorikan       | thaisiri |[https://github.com/thaisiri/mydsb23]   |[https://github.com/thaisiri/mydsb23]  |2023-05-11 |
 |26|Nianyu Li       | NianyuLi |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
 |27|Jacqui Cole       | jacquicole |<https://github.com/jacquicole>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
